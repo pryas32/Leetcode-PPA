@@ -7,17 +7,11 @@ public class loops {
 
         while(true);
 
-
        do{
      System.out.print(i);
      i++;
        }
        while(i<5);
-
-
-
-
-
 
 
 
