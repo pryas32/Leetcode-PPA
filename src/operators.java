@@ -8,7 +8,7 @@ public class operators {
 //relational
         int a1=2,b1=34;
 
-        if(a1>21 && ++b1>11)//shortcuiting
+        if(a1>21 && ++b1>11)//shortcuiting and used of relational operator here
         {
             System.out.println(a1+" "+b1);
         }
