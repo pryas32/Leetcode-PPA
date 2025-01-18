@@ -1,15 +1,22 @@
 public class operators {
-assignment operator(= ,+=,-+,*=,%=)
-    in assgnment operator the associativity goes from R to L
-            arthimetic -> in arithemetic the associatitvity goes from L to R
-    int x=(a*b+c); the associavity goes from L to R;
-    relational operator
-           logical(&&,||,!=)
- short-cicuiting(a && b)->hota hain so only a and we wont check b
-            similarly a||b -
-    > will check a and not b
-            relational operator used for comparing two things(>=,<=,==,>,<);
 
+    public static void main(String args[]){
+//assigment
+        int a=1,b=23;
+        a+=a;
+        System.out.println(a);
+//relational
+        int a1=2,b1=34;
+
+        if(a1>21 && ++b1>11)//shortcuiting
+        {
+            System.out.println(a1+" "+b1);
+        }
+
+        System.out.println(a1+" "+b1);
+
+
+    }
 
 
 
