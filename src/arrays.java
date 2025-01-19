@@ -56,3 +56,4 @@ public class arrays {
         }
     }
 }
+// we can have size constraints in this so we are introducing arraylist or vector where we can shrink or expand size as per our ease.
