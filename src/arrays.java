@@ -4,6 +4,19 @@ public class arrays {
 
         //arrays ->used for storing things whcih are in bunch.
 
+//ways of decalring an array
+
+
+        //int arr[];
+       // or int []arr;
+
+
+        //eg int arr[],b; here arrr is array of int and b is variable   arr=new int[4] ,b=new int [4](X)
+        // ;
+        //but here int [] arr ,b here both of them array of type int.
+       // arr=new int [4],b=new int [4];(correct)
+
+
 
         //declaration
         int arr[]={12,13,14};
