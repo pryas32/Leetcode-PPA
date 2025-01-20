@@ -57,8 +57,8 @@ public class classes {
 public static void main(String args[]){
 
     classes c=new classes();
-//    c.a=23;
-//    c.b=24;
+    c.a=23;
+    c.b=24;
 
     System.out.println(c.a);
     System.out.println(c.b);

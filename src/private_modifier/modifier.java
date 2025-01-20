@@ -4,8 +4,8 @@ public class modifier {
 
 
 
-        private int a;
-        private int b;
+       // public int a;
+        public int b;
 
 
         public void print() {
