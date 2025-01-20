@@ -15,7 +15,7 @@ System.out.print(a);
         System.out.print(b);
 
 
-    }
+    }//
 
     public static void fun(int a ,int b){
 //
