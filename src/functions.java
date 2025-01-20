@@ -9,7 +9,7 @@ int a =23,b=11;
         //means changes will be reflected .
 
         //but but but taking an example
-fun(a,b);
+fun(a,b);//
 
 System.out.print(a);
         System.out.print(b);

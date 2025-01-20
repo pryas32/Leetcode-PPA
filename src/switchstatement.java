@@ -18,8 +18,8 @@ public class switchstatement {
 //            System.out.print("nothing matches");
 
         int a = 5;
-
-        switch (a++) {
+//
+        switch (a++) {//
             case 5:
                 System.out.println("First");
                 System.out.print(a);

@@ -56,7 +56,7 @@ public class classes {
 
 public static void main(String args[]){
 
-    classes c=new classes();
+    classes c=new classes();//
     c.a=23;
     c.b=24;
 

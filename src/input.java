@@ -22,7 +22,7 @@ public class input {
 //            1.BufferReader
 //            2.Scanner class
 
-
+//
 //althugh bufferreader is faster than Scanner still we prefer Scanner as we dont need of checked exception so far.
 
 

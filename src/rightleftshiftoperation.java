@@ -16,7 +16,7 @@ public class rightleftshiftoperation {
 
 System.out.println(-2>>>1);
 System.out.println(-2>>1);
-
+//
 //        not operator ~
 
 

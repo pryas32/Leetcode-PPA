@@ -4,7 +4,7 @@ public class output {
 //output has format
 //System.out.println();
 //or System.out.format() for dates and all;
-
+//
 
 //escape sequences ->for escaping everything ->\t,\\,\",\n
 float y=3.142323f;
