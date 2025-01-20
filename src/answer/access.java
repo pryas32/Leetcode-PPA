@@ -8,5 +8,5 @@ public class access {
     System.out.println(f.b); //private modifier cant be accessed outside the class.
 
 
-
+//.
 }//

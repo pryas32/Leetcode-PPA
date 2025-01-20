@@ -21,7 +21,7 @@ System.out.println(-2>>1);
 
 
 //        2^32-1-x
-
+//
 
       System.out.print(~2);
 //      2^32-1-2 ie 3

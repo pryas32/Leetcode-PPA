@@ -26,8 +26,8 @@ public class switchstatement {
             case 6:
                 System.out.println(a++);
                 break;
-            case 7:
+            case 7://
                 System.out.println("YES");
         }
-    }
+    }//
 }

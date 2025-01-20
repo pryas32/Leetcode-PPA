@@ -12,7 +12,7 @@ public class operators {
         {
             System.out.println(a1+" "+b1);
         }
-
+//
         System.out.println(a1+" "+b1);
 
 

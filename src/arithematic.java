@@ -8,7 +8,7 @@ public static void main(String args[]) {
 //
 //
 //                                    1&0=0;1|0=1
-    System.out.println(3 & 4);//
+    System.out.println(3 & 4);////
     System.out.println(3 | 4);
 
 //    same bit then zero

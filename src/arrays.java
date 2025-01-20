@@ -15,7 +15,7 @@ public class arrays {
         // ;//
         //but here int [] arr ,b here both of them array of type int.
        // arr=new int [4],b=new int [4];(correct)
-
+//
 
 
         //declaration
