@@ -9,7 +9,7 @@ public class type_of_inheritance {
 //    Person
 //      |
 //      |
-//    student
+//    student//
 
 
 //multilevel

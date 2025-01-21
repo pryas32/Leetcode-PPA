@@ -7,7 +7,7 @@ public class finalkeyword{
 
     //when ever we decalre anything as final its value cant be chaged or modified
     //eg
-   // final static int a=10;
+   // final static int a=10;//
 //    cant do
 //    a=23;
     //final static int a;//blank final varibale
