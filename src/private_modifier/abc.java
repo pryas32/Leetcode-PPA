@@ -10,4 +10,15 @@ System.out.println(a1.print());//final method cante be overridden and may not be
     }
 
 
+    static class abc extends inheritance{
+
+
+        public static void main(String args[]){
+       abc a=new abc();
+       a.print();
+        }
+
+
+
+    }
 }
