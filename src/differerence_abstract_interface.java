@@ -16,7 +16,9 @@ public class differerence_abstract_interface {
     //a class can implements multiple interface
     //an interface can extends multiple interface.
 
-
+// we can only add static and default method in interfaces but cant override them as they cant be abstracxt
+    //static and default methd will have their definition means have their implmentations
+    //only abstact methiod we need to provide definition in child class
 
 
 
