@@ -6,13 +6,13 @@ abstract class abstraction {
         this.a = a;
     }
 
-   abstract void area();
+   abstract void area();//here we need to explicitly define area with abstract keyword.
 }
 
 
 
 
-
+//
 
 
     //abstracttion means

@@ -9,8 +9,8 @@ class child_abstraction  extends abstraction{
     void area() {// implemented abstract method of abstraction
        System.out.println(a*a);
     }
-}
-
+}//
+//
 
 
 
