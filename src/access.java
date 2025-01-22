@@ -1,7 +1,3 @@
-package answer;
-
-import private_modifier.modifier;
-
 public class access {
 
     modifier f=new modifier();
