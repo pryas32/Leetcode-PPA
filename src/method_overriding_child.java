@@ -4,7 +4,7 @@
 static   void print(){
        System.out.println("method_overriding_child");
     }
-///
+/////
 public static void main(String args[]){
     method_overriding m=new method_overriding_child();
     m.print();  //in method overriding base class refering to the class one is called
