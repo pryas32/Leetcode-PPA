@@ -33,7 +33,7 @@ public static void main(String agrs[]){
     polymorphism p=new polymorphism();
    System.out.println(p.sum(12,23));
 
-/// /
+/// ///
 //method overloading ->same method name but different parameter
     //if passed data type which is not matching then type conversion happen int->long etc
 
