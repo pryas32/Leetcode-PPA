@@ -1,5 +1,3 @@
-package private_modifier;
-
 public class modifier {
 
 

@@ -1,5 +1,3 @@
-package private_modifier;
-
 class method_overriding {
     //base class refering to the derived class
 
