@@ -7,5 +7,5 @@ class method_overriding {
         System.out.println("base class");
     }
 //
-
+ //
 }
