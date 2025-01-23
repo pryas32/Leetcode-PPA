@@ -18,6 +18,7 @@ public class collection_herarchy {
     //it has functions like min ,max ,binary_search etch which can be applied on above data structure
 
 
+//importamt ->all these collection herarchy are associated with wrapper class because we need to return null when like quwue is empty etc)
 
 
 
