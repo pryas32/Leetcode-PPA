@@ -33,7 +33,7 @@ public class lambda_expression_syntax {
 //(x,x1)->System.out.println(x,x1);//here x,x1 inherit data type from interfae
 
 
-    hello word
+   // hello word
 
 
 }
