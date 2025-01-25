@@ -7,6 +7,12 @@ public class BigNumber {
 ////string to biginteger
 //
 //
+//integer to biginteger
+
+        BigInteger b=bigInteger.Valueof(1);
+
+
+        
 //        System.out.println(b);
 //
 ////String to bigInteger
