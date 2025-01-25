@@ -18,7 +18,7 @@ class constructor {
 //
 }
 //
-class abc{
+class abc12{
 
     public static void main(String args[]){
         constructor c=new constructor();// if we our decalring any other constructor that its our responsibility to create default constructor if its in need
