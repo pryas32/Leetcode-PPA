@@ -9,7 +9,7 @@ public class BigNumber {
 //
 //integer to biginteger
 
-        BigInteger b=bigInteger.Valueof(1);
+//        BigInteger b=bigInteger.Valueof(1);
 
 
         
@@ -51,6 +51,20 @@ System.out.println(aaa);
 
 
 System.out.println(c1);
+
+
+//how to compare biginteger
+
+
+        BigInteger c=BigInteger.valueOf(0);
+        BigInteger m1=BigInteger.valueOf(34);
+
+        BigInteger f1=BigInteger.valueOf(12);
+
+     if(c.remainder(m1).equals(f1))//in this way we compare biginteger
+
+
+
 
 
 
