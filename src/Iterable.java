@@ -55,6 +55,15 @@ else{
 }
 
 
+   Collection(collection<?>c){
+
+    //we can have iterator of unknown type as tht of collection and also collection can inherit from any data structure ie arraylist ,linkedlist etc.
+
+   }
+
+
+
+
 
 
 }
