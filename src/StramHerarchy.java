@@ -1,7 +1,7 @@
 import java.util.stream.DoubleStream;
 import java.util.stream.LongStream;
 
-public class StramHerarchy {
+public class StremHerarchy {
 
     Stream herarchy and its methods
 
