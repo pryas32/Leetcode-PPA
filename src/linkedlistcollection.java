@@ -30,8 +30,8 @@ System.out.println(l);
 
 
 
-
-
+//arraylis is cache friendly and also in queue and dequeue the functions are (add remove ,element) throws exception
+//ie offer peek and poll when want a value .
 
 
     }
