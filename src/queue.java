@@ -7,7 +7,7 @@ public class queue {
 
         //for queue we have arraydequeue and linkedlist
 
-
+//
 Queue<Integer> q=new ArrayDeque<>();
 q.offer(12);
 q.offer(23);
