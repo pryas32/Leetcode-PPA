@@ -32,12 +32,12 @@ System.out.println("____________________________________________________");
         {
             System.out.println(e.getKey()+" "+e.getValue());
         }
+
+
+
+
 ///
-
-
-
-
-
+///time complexity ->O(1) as it internally imolement hashing.
 
 
 
