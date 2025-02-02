@@ -10,7 +10,7 @@ public class student {  // Class name should be capitalized
         this.name = name;
         this.roll_no = roll_no;
     }
-
+//
     public String getName() {
         return this.name;
     }
