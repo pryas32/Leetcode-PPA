@@ -22,6 +22,11 @@ int rollno;
 
    /// s.compareTo(s1)//in this s.rollno and s1.rollno
 
+//if we want to sort in decreasing order we hae sort(arr,collections.reverseOrder())
+    //if we want to sort priorityqueue in decreasing order we have
+    //sort(prioroityqueue ,collectiosn.reverseOrder());
+
+    //treeset and treemap
 
 
 
