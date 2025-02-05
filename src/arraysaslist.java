@@ -38,6 +38,10 @@ Integer arra[]={1,2,3,4};
 
 System.out.println(Arrays.toString(arra));
 
+//for character array println() is defined in some other way
+    char charu[]={'a','y','s'};
+
+    System.out.println(charu);//here it will not print hashcode it will print content
 
 
 
