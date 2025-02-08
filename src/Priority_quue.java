@@ -1,7 +1,7 @@
 import java.util.Collections;
 import java.util.PriorityQueue;
 
-public class Priority_quue {
+public class TreesettingPriority_quue {
 
     public static void main(String args []){
 
