@@ -7,7 +7,7 @@ public class GFF {
 
  synchronized  public void prodcue_item(int item) throws InterruptedException {
 
-if(signal==true){
+if(signal==true){//intercommunication between both the threads
     wait();
 }
 
@@ -16,7 +16,7 @@ if(signal==true){
 
         System.out.println("Producer produces item"+item);
      signal=true;
-     notify();
+     notify(); //then notifying thread 2 . ir consumer thread
     }
 
 
@@ -29,7 +29,7 @@ wait();
         System.out.println("Consumer consumes the item");
 
        signal=false;
-notify();
+notify();//notifying thread1ie producer thread
        return buffer;
     }
 
